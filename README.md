@@ -1,12 +1,12 @@
 # discord-bot-template
+this is just a really simple basic template for a nodejs based discord bot
+
 PLEASE REPLACE ALL VARIABLES WITH YOUR OWN ID'S AND TOKENS (OTHERWISE IT WILL NOT WORK)
 
-* find your bot token and client id: https://discord.com/developers/applications
+* find your bot token and client id: [dev platform](https://discord.com/developers/applications/)
 * add your bot to your server via this link (dont forget to replace your client id)
 * https://discordapp.com/oauth2/authorize?&client_id=734765787688206336&scope=bot&permissions=8
-     
-## hello
-this is just a really simple basic template for a nodejs based discord bot, find your discord apps on the [dev platform](https://discord.com/developers/applications/).
+
 
 ## settings
 enable developer mode in discord itself, you need that to see id's (somewhere in appearance settings)
