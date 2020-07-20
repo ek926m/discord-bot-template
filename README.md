@@ -28,3 +28,6 @@ install nodejs from [https://nodejs.org/de/](https://nodejs.org/de/)
 ## run app
      $ npm install
      $ node bot.js
+
+## test bot
+write !hello 
