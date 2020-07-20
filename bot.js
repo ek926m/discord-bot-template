@@ -12,7 +12,7 @@ let LOGS_CHANNEL = null;
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login(process.env.BOT_TOKEN);
+client.login(BOT_TOKEN);
 
 client.on('ready', async () => {
     LOGS_CHANNEL = client.guilds.get(DISCORD_ID).channels.get(LOGS_CHANNEL_ID);
