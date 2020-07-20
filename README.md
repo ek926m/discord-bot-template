@@ -10,6 +10,7 @@ PLEASE REPLACE ALL VARIABLES WITH YOUR OWN ID'S AND TOKENS (OTHERWISE IT WILL NO
 
 ## settings
 enable developer mode in discord itself, you need that to see id's (somewhere in appearance settings)
+you can get a id from a channel/user/server by right clicking and copy id
 
 ## docs
 read the [docs](https://discord.com/developers/docs/intro) if needed
