@@ -1,13 +1,14 @@
 
 /*
+*   find your bot token and client id: https://discord.com/developers/applications
 *   add your bot to your server via this link (dont forget to replace your client id)
-*   https://discordapp.com/oauth2/authorize?&client_id=1234567890&scope=bot&permissions=8
+*   https://discordapp.com/oauth2/authorize?&client_id=734765787688206336&scope=bot&permissions=8
 *   
 */
 
-const BOT_TOKEN = 1234567890; // your bot token (find it under https://discord.com/developers/applications)
-const DISCORD_ID = 1234567890; // your discord server id
-const LOGS_CHANNEL_ID = 1234567890; // your channel for your bot logs
+const BOT_TOKEN = "NzM0NzY1Nzg3Njg4MjA2MzM2.XxWfUw.mtqCt-z3iQQqyAWS7LwS0EqdGSo";
+const DISCORD_ID = "499690739886981123"; // your discord server id
+const LOGS_CHANNEL_ID = "499690740423720972"; // your channel for your bot logs
 let LOGS_CHANNEL = null;
 
 const Discord = require('discord.js');
